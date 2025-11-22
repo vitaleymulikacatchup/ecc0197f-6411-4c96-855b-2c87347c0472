@@ -18,7 +18,7 @@ export default function PizzaHutPage() {
       borderRadius="rounded"
       contentWidth="large"
       sizing="large"
-      background="none"
+      background="aurora"
       cardStyle="layered-gradient"
       primaryButtonStyle="gradient"
       secondaryButtonStyle="radial-glow"
